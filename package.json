@@ -1,0 +1,11 @@
+{
+    "name": "sns-sqs-subscription",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/aws-native": "^0.75.0"
+    }
+}

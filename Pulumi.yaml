@@ -1,0 +1,3 @@
+name: sns-sqs-subscription
+runtime: nodejs
+description: Create SQS subscription to SNS topic
